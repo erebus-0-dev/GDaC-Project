@@ -36,6 +36,7 @@ namespace GDK_Project
             this.label1 = new System.Windows.Forms.Label();
             this.operationSelection = new System.Windows.Forms.ComboBox();
             this.mainPanel = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.calculateButton = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
@@ -54,7 +55,6 @@ namespace GDK_Project
             this.saveHistoryToFileCheckbox = new System.Windows.Forms.CheckBox();
             this.label7 = new System.Windows.Forms.Label();
             this.calculationHistory = new System.Windows.Forms.RichTextBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.numberA.SuspendLayout();
             this.mainPanel.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -140,6 +140,16 @@ namespace GDK_Project
             this.mainPanel.Size = new System.Drawing.Size(454, 205);
             this.mainPanel.TabIndex = 6;
             // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button1.Location = new System.Drawing.Point(312, 163);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(130, 35);
+            this.button1.TabIndex = 13;
+            this.button1.Text = "Сохранить";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // label8
             // 
             this.label8.AutoSize = true;
@@ -158,7 +168,7 @@ namespace GDK_Project
             this.calculateButton.Name = "calculateButton";
             this.calculateButton.Size = new System.Drawing.Size(251, 35);
             this.calculateButton.TabIndex = 10;
-            this.calculateButton.Text = "Перенести реузльтат во ввод";
+            this.calculateButton.Text = "Перенести результат во ввод";
             this.calculateButton.UseVisualStyleBackColor = true;
             // 
             // panel3
@@ -314,16 +324,6 @@ namespace GDK_Project
             this.calculationHistory.Size = new System.Drawing.Size(442, 221);
             this.calculationHistory.TabIndex = 0;
             this.calculationHistory.Text = "<история вычислений>";
-            // 
-            // button1
-            // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(312, 163);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(130, 35);
-            this.button1.TabIndex = 13;
-            this.button1.Text = "Сохранить";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
