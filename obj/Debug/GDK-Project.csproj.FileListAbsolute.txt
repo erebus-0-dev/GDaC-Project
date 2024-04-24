@@ -1,0 +1,10 @@
+E:\GDaC-Project\bin\Debug\GDK-Project.exe.config
+E:\GDaC-Project\bin\Debug\GDK-Project.exe
+E:\GDaC-Project\bin\Debug\GDK-Project.pdb
+E:\GDaC-Project\obj\Debug\GDK-Project.csproj.AssemblyReference.cache
+E:\GDaC-Project\obj\Debug\GDK_Project.Properties.Resources.resources
+E:\GDaC-Project\obj\Debug\GDK-Project.csproj.GenerateResource.cache
+E:\GDaC-Project\obj\Debug\GDK-Project.csproj.CoreCompileInputs.cache
+E:\GDaC-Project\obj\Debug\GDK-Project.exe
+E:\GDaC-Project\obj\Debug\GDK-Project.pdb
+E:\GDaC-Project\obj\Debug\GDK_Project.MainForm.resources
