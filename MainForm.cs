@@ -156,7 +156,7 @@ namespace GDK_Project
 
         private string str(Complex num)
         {
-            return ("(" + num.Real.ToString() + ", " + num.Imaginary.ToString() + ")");
+            return ("(" + num.Real.ToString() + " + " + num.Imaginary.ToString() + "i)");
         }
 
         private string GetCurrentOperation()
